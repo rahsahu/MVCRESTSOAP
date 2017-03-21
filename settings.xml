@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<get-all-country-response>
+	<country xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		population="8222228808412576898" id="-457626026"
+		xsi:type="java:io.spring.guides.gs_producing_web_service.Country">
+		<name>test-name 5811000</name>
+	</country>
+	<country population="6255128843858151330" id="-1838182055">
+		<name>test-name 791000</name>
+	</country>
+	<country population="-7078057151964137006" id="-974065976">
+		<name>test-name 181000</name>
+	</country>
+	<country population="7100975463718491772" id="10565985">
+		<name>test-name 7111000</name>
+	</country>
+	<country population="1854642035601337922" id="-1447247040">
+		<name>test-name 3051000</name>
+	</country>
+	<country population="-5715656105945288364" id="-1126404258">
+		<name>test-name 491000</name>
+	</country>
+	<country population="211743049589052161" id="1305278298">
+		<name>test-name 5041000</name>
+	</country>
+	<country population="-8782843058657176944" id="1181632891">
+		<name>test-name 4961000</name>
+	</country>
+	<country population="6453537876063812944" id="-350469387">
+		<name>test-name 2791000</name>
+	</country>
+	<country population="1957023617958165998" id="577915499">
+		<name>test-name 2171000</name>
+	</country>
+	<country population="-5043825704539681530" id="-1169191243">
+		<name>test-name 4741000</name>
+	</country>
+	<country population="6799798952827836155" id="1981410786">
+		<name>test-name 8691000</name>
+	</country>
+	<country population="-6224440395207480565" id="1704577152">
+		<name>test-name 271000</name>
+	</country>
+	<country population="8304455167662704541" id="682181914">
+		<name>test-name 1791000</name>
+	</country>
+	<country population="-8069449399117096995" id="1855309825">
+		<name>test-name 4341000</name>
+	</country>
+	<country population="-8086744751656667510" id="1220191055">
+		<name>test-name 801000</name>
+	</country>
+	<country population="857464951939942926" id="717767465">
+		<name>test-name 9351000</name>
+	</country>
+	<country population="-7654403973025477170" id="-1868867005">
+		<name>test-name 2961000</name>
+	</country>
+	<country population="8125137032589450435" id="-574893400">
+		<name>test-name 2431000</name>
+	</country>
+	<country population="-8674270413628976823" id="-841775429">
+		<name>test-name 5551000</name>
+	</country>
+	<country population="-2245570108849451465" id="-1545009544">
+		<name>test-name 611000</name>
+	</country>
+	<country population="-4479225256074640081" id="-1607799553">
+		<name>test-name 7631000</name>
+	</country>
+	<country population="-6542149999753261514" id="1440516691">
+		<name>test-name 6811000</name>
+	</country>
+	<country population="-5367247246841797498" id="2092754270">
+		<name>test-name 3541000</name>
+	</country>
+	<country population="2013687419627035810" id="1196251704">
+		<name>test-name 7921000</name>
+	</country>
+	<country population="-5069702817394350165" id="569202856">
+		<name>test-name 1101000</name>
+	</country>
+	<country population="-3270893640327890958" id="-904591638">
+		<name>test-name 41000</name>
+	</country>
+	<country population="7767325371253988045" id="-1320104782">
+		<name>test-name 951000</name>
+	</country>
+	<country population="2998308817509866414" id="-1455682959">
+		<name>test-name 5061000</name>
+	</country>
+	<country population="195914556078146673" id="1960411350">
+		<name>test-name 1011000</name>
+	</country>
+</get-all-country-response>
